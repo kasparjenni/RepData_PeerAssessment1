@@ -1,9 +1,6 @@
- ---
- title: "Reproducible Research: Peer Assessment 1"
--output: 
--  html_document:
--    keep_md: true
- ---
+---
+title: "Reproducible Research: Peer Assessment 1"
+---
 Written by Kaspar Jenni on 03/15/2015
 
 Peer assignement 1 for Coursera's Reproducible Research course.
